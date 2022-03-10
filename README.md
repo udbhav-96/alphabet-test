@@ -1,7 +1,7 @@
 # alphabet-test
 It is a calculator on a reasoning topic alphabet test 
 
-In this quetions are like 
+In this topic, quetions are like 
 What is the 5th letter to the right of 7th letter from left if the aplhabet series is written in forword order.
 For forword Series type = FO
 For 5th letter from left = L5
